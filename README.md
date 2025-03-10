@@ -22,3 +22,8 @@ __CMD__
 ```
 venv\Scripts\activate.bat
 ```
+with your virtual environment activated type in the command
+```
+pip install -r requirements.txt
+```
+this command will install manim and other library that are need for this project
